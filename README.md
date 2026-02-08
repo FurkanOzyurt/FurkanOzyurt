@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Özyurt</h1>
 <h3 align="center">Senior React Native–focused Frontend Developer with 6+ years of experience building web and mobile products with React and TypeScript. At UpVisit, I delivered CMS and mobile event applications used by 10K+ users. At FruPro, we reduced Sentry-reported production bugs by ~80% within 4 months and improved performance metrics (startup time, FPS, bundle size, crash-free rate). At CargoNXT, I streamlined release workflows by implementing Sentry- and Jira-triggered agent automation and automated test workflows.</h3>
 
-- 👨‍💻 All of my projects are available at [furkanozyurt90@gmail.com](furkanozyurt90@gmail.com)
+- 👨‍💻 All of my projects are available at [https://www.furkanozyurt.com/](https://www.furkanozyurt.com/)
 
 - 📫 How to reach me **furkanozyurt90@gmail.com**
 
